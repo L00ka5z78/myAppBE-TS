@@ -7,3 +7,4 @@ testowane i rejestruje usera, ale inne ścieżki wyrzuca komunikaty z walidajcji
 prawdopodobnie przez błędy opisane powyżej.
 
 Jeszcze nie wiem czy nie przesadziłem z typowaniem w plikach w katalogu models.
+baza na mongodb compass nie atlas.
